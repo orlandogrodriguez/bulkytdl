@@ -1,4 +1,4 @@
-# bulkytdl
+# BulkYtDl
 Bulk youtube to mp3 download tool
 
 ## Setup
